@@ -1,3 +1,2 @@
-server: server
-development:  dev
-content:  wangning
+development:  devNative
+content:  wangningNative
